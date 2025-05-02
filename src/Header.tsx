@@ -10,9 +10,8 @@ function Header() {
 				<div className="prefix" />
 				<div>ミニマックス法</div>
 				<Anchor
-					// href="https://github.com/yourusername/gomoku-alpha"
-					href="#"
-					// target="_blank"
+					href="https://github.com/roxas1533/gomoku-alpha"
+					target="_blank"
 					className="github-link suffix"
 					aria-label="View source code on GitHub"
 				>
